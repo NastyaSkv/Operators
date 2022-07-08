@@ -1,4 +1,4 @@
-//поменять местами две переменные
+п»ї//РїРѕРјРµРЅСЏС‚СЊ РјРµСЃС‚Р°РјРё РґРІРµ РїРµСЂРµРјРµРЅРЅС‹Рµ
 #include<iostream>
 using namespace std;
 int digit1;
@@ -9,11 +9,11 @@ void main()
 {
 	setlocale(LC_ALL, "Russian");
 
-	cout << "Введите первое число: "; cin >> digit1;
-	cout << "Введите второе число: "; cin >> digit2;
+	cout << "Р’РІРµРґРёС‚Рµ РїРµСЂРІРѕРµ С‡РёСЃР»Рѕ: "; cin >> digit1;
+	cout << "Р’РІРµРґРёС‚Рµ РІС‚РѕСЂРѕРµ С‡РёСЃР»Рѕ: "; cin >> digit2;
 	empt = digit1;
 	digit1 = digit2;
 	digit2 = empt;
 
-	cout << "\nТеперь первое число = " << digit1 << endl << "А второе число = " << digit2 << endl;
+	cout << "\nРўРµРїРµСЂСЊ РїРµСЂРІРѕРµ С‡РёСЃР»Рѕ = " << digit1 << endl << "Рђ РІС‚РѕСЂРѕРµ С‡РёСЃР»Рѕ = " << digit2 << endl;
 }
