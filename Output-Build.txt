@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: Homework 1, Configuration: Debug x64 ------
+1>Homework 1.vcxproj -> C:\Users\Дима\source\repos\Homework 1\x64\Debug\Homework 1.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
